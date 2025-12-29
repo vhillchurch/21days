@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>21 Days of Prayer & Fasting | Victory Hill</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #0f0f0f;
+      color: #f3c948;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    .hero {
+      background-color: #f3c948;
+      color: #0f0f0f;
+      padding: 2rem;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    .hero h2 {
+      font-weight: normal;
+    }
+    section {
+      margin-top: 3rem;
+    }
+    h2 {
+      color: #f3c948;
+      border-bottom: 2px solid #f3c948;
+      padding-bottom: 0.5rem;
+    }
+    ul, p {
+      color: #ffffff;
+    }
+    .prayer-focus li {
+      margin-bottom: 0.5rem;
+    }
+    .button {
+      background-color: #f3c948;
+      color: #0f0f0f;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h1>21 Days of Prayer & Fasting</h1>
+    <h2>January 7–27, 2026</h2>
+    <p>Focusing on where we live, work, and play</p>
+  </div>
+
+  <div class="container">
+    <section>
+      <h2>Why We Fast</h2>
+      <p>Fasting isn’t about skipping meals or being extra spiritual. It’s about voluntarily giving something up to seek God with more focus. It’s about tuning out distractions and tuning into His voice.</p>
+      <p>We’re not fasting to get something from God—we’re fasting to give Him our first and best as we begin the year.</p>
+    </section>
+
+    <section>
+      <h2>Fast Details</h2>
+      <ul>
+        <li><strong>Dates:</strong> January 7–27, 2026</li>
+        <li><strong>Prayer Nights:</strong> Wednesdays at 6PM</li>
+        <li><strong>Social Media Fast:</strong> No posts from Victory Hill—join us in unplugging</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Prayer Focus</h2>
+      <ul class="prayer-focus">
+        <li>Wisdom and favor for our leadership</li>
+        <li>People to meet Jesus and take next steps</li>
+        <li>Provision to fulfill the vision of our church</li>
+        <li>Unity throughout our church family</li>
+        <li>Empowering the next generation</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Types of Fasts</h2>
+      <ul>
+        <li><strong>Complete Fast:</strong> Liquids only for a period of time</li>
+        <li><strong>Selective Fast:</strong> Removing specific foods (like sweets or meats)</li>
+        <li><strong>Partial Fast:</strong> Only eating during a certain time of day</li>
+        <li><strong>Soul Fast:</strong> Fasting social media, streaming, or digital distractions</li>
+      </ul>
+      <p>Choose what’s challenging for you. The goal isn’t to suffer—it’s to seek.</p>
+    </section>
+
+    <section>
+      <h2>Next Steps</h2>
+      <p>
+        Pick your fast. Set your prayer goals. Join us on Wednesday nights. Text "FAST" to our number for daily encouragement. 
+      </p>
+      <a href="#" class="button">Download Fasting Guide</a>
+    </section>
+  </div>
+</body>
+</html>
